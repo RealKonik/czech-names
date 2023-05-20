@@ -1,2 +1,2 @@
 # czech-names
-A database of all first czech names in json format.
+A database of all czech first names and last names in json format.
